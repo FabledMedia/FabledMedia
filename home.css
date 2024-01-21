@@ -1,0 +1,473 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	font-size: 1.3vh;
+}
+
+.v1_2 {
+	width: 100%;
+	height: 509.26vh;
+	background: rgba(245,245,245,1);
+	opacity: 1;
+	position: absolute;
+	top: 0;
+	left: 0;
+	overflow: hidden;
+}
+
+.v1_22 {
+	width: 100%;
+	height: 74.07vh;
+	background: rgba(0,0,20,1);
+	opacity: 1;
+	position: absolute;
+	top: 0;
+	left: 0;
+	overflow: hidden;
+}
+
+.v1_26 {
+	width: 66.67vw;
+	height: 78.7vh;
+	background: rgba(0,0,20,1);
+	opacity: 1;
+	position: absolute;
+	top: 144.07vh;
+	left: 43.98vw;
+	overflow: hidden;
+}
+
+.v1_28 {
+	width: 1.76vw;
+	height: 1.48vh;
+	background: url('../images/v1_28.png');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+	opacity: 1;
+	position: absolute;
+	top: 204.44vh;
+	left: 86.57vw;
+	overflow: hidden;
+}
+
+.v1_29 {
+	width: 1.76vw;
+	height: 1.48vh;
+	background: rgba(0,0,0,1);
+	opacity: 1;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+.v1_30 {
+	width: 37.04vw;
+	height: 33.33vh;
+	background: url('https://cdn.imgpaste.net/2023/12/09/KP90V8.png');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+	opacity: 1;
+	position: absolute;
+	top: 268.7vh;
+	left: 0;
+	overflow: hidden;
+}
+
+.v1_33 {
+	width: 37.04vw;
+	height: 33.33vh;
+	background: url('https://cdn.imgpaste.net/2023/12/09/KP99Hs.jpg');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+	opacity: 1;
+	position: absolute;
+	top: 268.7vh;
+	left: 37.04vw;
+	overflow: hidden;
+}
+
+.v1_36 {
+	width: 37.04vw;
+	height: 33.33vh;
+	background: url('https://cdn.imgpaste.net/2023/12/06/KPwPpm.jpg');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+	opacity: 1;
+	position: absolute;
+	top: 268.7vh;
+	left: 74.07vw;
+	overflow: hidden;
+}
+
+.v1_39 {
+	width: 37.04vw;
+	height: 33.33vh;
+	background: url('https://cdn.imgpaste.net/2023/12/09/KP9Uvm.jpg');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+	opacity: 1;
+	position: absolute;
+	top: 302.04vh;
+	left: 0;
+	overflow: hidden;
+}
+
+.v1_42 {
+	width: 37.04vw;
+	height: 33.33vh;
+	background: url('https://cdn.imgpaste.net/2023/12/09/KPIFPw.jpg');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+	opacity: 1;
+	position: absolute;
+	top: 302.04vh;
+	left: 37.04vw;
+	overflow: hidden;
+}
+
+.v1_45 {
+	width: 37.04vw;
+	height: 33.33vh;
+	background: rgba(0,0,20,1);
+	opacity: 1;
+	position: absolute;
+	top: 302.04vh;
+	left: 74.07vw;
+	overflow: hidden;
+}
+
+.v1_48 {
+	width: 27.78vw;
+	height: 3.89vh;
+	background: rgba(0,0,20,1);
+	opacity: 1;
+	position: absolute;
+	top: 450.28vh;
+	left: 6.85vw;
+	overflow: hidden;
+}
+
+.v1_51 {
+	width: 55vw;
+	height: 32.69vh;
+	background: url('https://cdn.imgpaste.net/2023/12/09/KPIXXv.png');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+	opacity: 1;
+	position: absolute;
+	top: 412.31vh;
+	left: 55.56vw;
+	overflow: hidden;
+}
+
+.v1_52 {
+	width: 21.2vw;
+	height: 11.3vh;
+	background: url('https://cdn.imgpaste.net/2023/12/09/KPIYLe.png');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+	opacity: 1;
+	position: absolute;
+	top: 489.07vh;
+	left: 6.48vw;
+	overflow: hidden;
+}
+
+.v1_53 {
+	width: 37.22vw;
+	height: 11.3vh;
+	background: url('https://cdn.imgpaste.net/2023/12/09/KPIZzX.png');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+	opacity: 1;
+	position: absolute;
+	top: 489.07vh;
+	left: 32.04vw;
+	overflow: hidden;
+}
+
+.v1_177 {
+	width: 48.06vw;
+	color: rgba(245,245,245,1);
+	position: absolute;
+	top: 39.81vh;
+	left: 4.17vw;
+	font-family: Neutral Face;
+	font-weight: Bold;
+	font-size: 8.89vh;
+	opacity: 1;
+	text-align: left;
+}
+
+.v1_178 {
+	width: 12.59vw;
+	color: rgba(38,38,38,1);
+	position: absolute;
+	top: 71.2vh;
+	left: 51.2vw;
+	font-family: Roboto;
+	font-weight: Regular;
+	font-size: 1.48vh;
+	opacity: 1;
+	text-align: center;
+}
+
+.v1_179 {
+	width: 41.94vw;
+	color: rgba(0,0,0,1);
+	position: absolute;
+	top: 86.94vh;
+	left: 5.56vw;
+	font-family: Neutral Face;
+	font-weight: Bold;
+	font-size: 3.33vh;
+	opacity: 1;
+	text-align: left;
+}
+
+.v1_180 {
+	width: 68.98vw;
+	color: rgba(38,38,38,1);
+	position: absolute;
+	top: 97.96vh;
+	left: 5.56vw;
+	font-family: Benzin;
+	font-weight: Regular;
+	font-size: 3.33vh;
+	opacity: 1;
+	text-align: left;
+}
+
+.v1_182 {
+	width: 32.04vw;
+	color: rgba(255,255,255,1);
+	position: absolute;
+	top: 161.57vh;
+	left: 66.67vw;
+	font-family: Benzin;
+	font-weight: Regular;
+	font-size: 1.85vh;
+	opacity: 1;
+	text-align: left;
+}
+
+.v1_183 {
+	width: 34.72vw;
+	color: rgba(255,255,255,1);
+	position: absolute;
+	top: 189.54vh;
+	left: 66.67vw;
+	font-family: Benzin;
+	font-weight: Regular;
+	font-size: 1.85vh;
+	opacity: 1;
+	text-align: left;
+}
+
+.v1_185 {
+	width: 100%;
+	color: rgba(0,0,20,1);
+	position: absolute;
+	top: 231.67vh;
+	left: 4.07vw;
+	font-family: Neutral Face;
+	font-weight: Bold;
+	font-size: 5.93vh;
+	opacity: 1;
+	text-align: left;
+}
+
+.v1_186 {
+	width: 30.93vw;
+	color: rgba(245,245,245,1);
+	position: absolute;
+	top: 297.04vh;
+	left: 2.22vw;
+	font-family: Benzin;
+	font-weight: Regular;
+	font-size: 2.22vh;
+	opacity: 1;
+	text-align: left;
+}
+
+.v1_187 {
+	width: 29.07vw;
+	color: rgba(245,245,245,1);
+	position: absolute;
+	top: 297.04vh;
+	left: 39.26vw;
+	font-family: Benzin;
+	font-weight: Regular;
+	font-size: 2.22vh;
+	opacity: 1;
+	text-align: left;
+}
+
+.v1_188 {
+	width: 18.61vw;
+	color: rgba(245,245,245,1);
+	position: absolute;
+	top: 297.04vh;
+	left: 75.56vw;
+	font-family: Benzin;
+	font-weight: Regular;
+	font-size: 2.22vh;
+	opacity: 1;
+	text-align: left;
+}
+
+.v1_189 {
+	width: 18.15vw;
+	color: rgba(0,0,20,1);
+	position: absolute;
+	top: 330.19vh;
+	left: 2.22vw;
+	font-family: Benzin;
+	font-weight: Regular;
+	font-size: 2.22vh;
+	opacity: 1;
+	text-align: left;
+}
+
+.v1_190 {
+	width: 14.63vw;
+	color: rgba(245,245,245,1);
+	position: absolute;
+	top: 330.19vh;
+	left: 39.26vw;
+	font-family: Benzin;
+	font-weight: Regular;
+	font-size: 2.22vh;
+	opacity: 1;
+	text-align: left;
+}
+
+.v1_191 {
+	width: 19.17vw;
+	color: rgba(245,245,245,1);
+	position: absolute;
+	top: 326.02vh;
+	left: 79.63vw;
+	font-family: Benzin;
+	font-weight: Regular;
+	font-size: 3.33vh;
+	opacity: 1;
+	text-align: left;
+}
+
+.v1_192 {
+	width: 100%;
+	color: url("../images/v1_192.png");
+	position: absolute;
+	top: 346.85vh;
+	left: 4.81vw;
+	font-family: Neutral Face;
+	font-weight: Bold;
+	font-size: 5.93vh;
+	opacity: 1;
+	text-align: left;
+}
+
+.v1_193 {
+	width: 40.74vw;
+	color: rgba(0,0,20,1);
+	position: absolute;
+	top: 408.24vh;
+	left: 6.85vw;
+	font-family: Neutral Face;
+	font-weight: Regular;
+	font-size: 3.33vh;
+	opacity: 1;
+	text-align: left;
+}
+
+.v86_2 {
+	width: 40.74vw;
+	color: rgba(0,0,20,1);
+	position: absolute;
+	top: 481.02vh;
+	left: 39.44vw;
+	font-family: Neutral Face;
+	font-weight: Regular;
+	font-size: 3.33vh;
+	opacity: 1;
+	text-align: left;
+}
+
+.v1_194 {
+	width: 34.35vw;
+	color: rgba(38,38,38,1);
+	position: absolute;
+	top: 419.54vh;
+	left: 6.85vw;
+	font-family: Benzin;
+	font-weight: Regular;
+	font-size: 1.48vh;
+	opacity: 1;
+	text-align: left;
+}
+
+.v1_195 {
+	width: 7.87vw;
+	color: rgba(255,255,255,1);
+	position: absolute;
+	top: 459.81vh;
+	left: 13.61vw;
+	font-family: Roboto;
+	font-weight: Regular;
+	font-size: 1.48vh;
+	opacity: 1;
+	text-align: left;
+}
+
+.v74_43 {
+	width: 33vw;
+	color: rgba(245, 245, 245, 1);
+	position: absolute;
+	top: 147.5vh;
+	left: 66.67vw;
+	font-family: Neutral Face;
+	font-weight: Bold;
+	font-size: 3.3vh;
+	opacity: 1;
+	text-align: center;
+}
+
+.v1_25 {
+	width: 61.11vw;
+	height: 40.74vh;
+	background: url('https://cdn.imgpaste.net/2023/12/09/KP9r0Y.jpg');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+	opacity: 1;
+	position: absolute;
+	top: 148.8vh;
+	left: 0w;
+	overflow: hidden;
+}
+
+.v1_22 {
+	width: 100%;
+	height: 74.07vh;
+	background: url('https://cdn.imgpaste.net/2023/12/07/KPrCLs.jpg');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+	opacity: 1;
+	position: absolute;
+	top: 0;
+	left: 0;
+	overflow: hidden;
+}
