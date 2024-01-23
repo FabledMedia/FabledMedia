@@ -1,4 +1,27 @@
-* {
+@font-face {
+    font-family: 'Glowist';
+    src: url('Glowist.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'NeutralFace-Bold';
+    src: url('NeutralFace-Bold.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'NeutralFace';
+    src: url('NeutralFace.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'Supremat - Benzin Regular';
+    src: url('Supremat - Benzin Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Windsore-Script';
+    src: url('Windsore-Script.otf') format('opentype');
+} {
   box-sizing: border-box;
 }
 body {
