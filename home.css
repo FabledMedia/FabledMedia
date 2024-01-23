@@ -22,14 +22,13 @@
     font-family: 'Windsore-Script';
     src: url('Windsore-Script.otf') format('opentype');
 }
-html {
-  width: 100%;
-  box-sizing: border-box;
-}
-
-body {
-  width: 100%;
-  box-sizing: border-box;
+.box {
+  margin: 8px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
 }
 
 body {
