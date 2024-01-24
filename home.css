@@ -474,12 +474,12 @@ body {
 }
 
 .v1_22 {
-	width: 120%;
+	width: 100%;
     height: calc(800 / 1080 * 100vh);
 	background: url('https://cdn.imgpaste.net/2023/12/07/KPrCLs.jpg');
 	background-repeat: no-repeat;
 	background-position: center center;
-	background-size: 100% 100%;
+	background-size: 120% 100%;
 	opacity: 1;
 	position: absolute;
 	top: 0;
