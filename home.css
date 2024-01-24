@@ -33,7 +33,7 @@ body {
 }
 
 .v1_22 {
-	width: 100%;
+	width: 120%;
 	height: 76.07vh;
 	background: rgba(0,0,20,1);
 	opacity: 1;
@@ -474,7 +474,7 @@ body {
 }
 
 .v1_22 {
-	width: 100%;
+	width: 120%;
     height: calc(800 / 1080 * 100vh);
 	background: url('https://cdn.imgpaste.net/2023/12/07/KPrCLs.jpg');
 	background-repeat: no-repeat;
