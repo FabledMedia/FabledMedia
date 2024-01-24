@@ -21,7 +21,9 @@
 @font-face {
     font-family: 'Windsore-Script';
     src: url('Windsore-Script.otf') format('opentype');
-} {
+} 
+
+*{
   box-sizing: border-box;
 }
 body {
