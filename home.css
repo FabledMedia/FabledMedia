@@ -34,7 +34,7 @@ body {
 
 .v1_22 {
 	width: 100vw;
-	height: 74.07vh;
+	height: 76.07vh;
 	background: rgba(0,0,20,1);
 	opacity: 1;
 	position: absolute;
@@ -479,7 +479,7 @@ body {
 	background: url('https://cdn.imgpaste.net/2023/12/07/KPrCLs.jpg');
 	background-repeat: no-repeat;
 	background-position: center center;
-	background-size: auto;
+	background-size: 100% 100%;
 	opacity: 1;
 	position: absolute;
 	top: 0;
