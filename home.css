@@ -33,7 +33,7 @@ body {
 }
 
 .v1_22 {
-	width: 100%;
+	width: 100vw;
 	height: 74.07vh;
 	background: rgba(0,0,20,1);
 	opacity: 1;
