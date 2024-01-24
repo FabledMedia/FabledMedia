@@ -474,8 +474,8 @@ body {
 }
 
 .v1_22 {
-	width: 100%;
-	height: calc(800 / 1080 * 100vh);
+	width: 100vw;
+    height: calc(800 / 1080 * 100vh);
 	background: url('https://cdn.imgpaste.net/2023/12/07/KPrCLs.jpg');
 	background-repeat: no-repeat;
 	background-position: center center;
