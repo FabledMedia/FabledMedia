@@ -230,6 +230,7 @@ body {
   font-size: 5.93vw;
   opacity: 1;
   text-align: left;
+  overflow: auto;
 }
 .v104_1129 {
   width: 43.98vw;
