@@ -479,10 +479,10 @@ body {
 	background: url('https://cdn.imgpaste.net/2023/12/07/KPrCLs.jpg');
 	background-repeat: no-repeat;
 	background-position: center center;
-	background-size: contain;
+	background-size: auto;
 	opacity: 1;
 	position: absolute;
 	top: 0;
 	left: 0;
-	overflow: scroll;
+	overflow: hidden;
 }
