@@ -123,10 +123,7 @@ body {
 .v1_39 {
 	width: 37.04vw;
 	height: 33.33vh;
-	background: url('https://cdn.imgpaste.net/2023/12/09/KP9Uvm.jpg');
-	background-repeat: no-repeat;
-	background-position: center center;
-	background-size: cover;
+	background: rgba(0,0,20,1);
 	opacity: 1;
 	position: absolute;
 	top: 302.04vh;
