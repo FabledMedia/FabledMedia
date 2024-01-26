@@ -178,7 +178,8 @@ body {
   font-weight: Regular;
   font-size: 20px;
   opacity: 1;
-  text-align: left;
+  text-align: left; 
+  overflow: visibile
 }
 .v104_1121 {
   width: 100%;
