@@ -243,7 +243,7 @@ body {
   position: absolute;
   top: 91px;
   left: 0px;
-  overflow: hidden;
+  overflow: visible;
 }
 .v104_1126 {
   width: 358px;
