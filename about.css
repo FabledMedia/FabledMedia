@@ -256,6 +256,7 @@ body {
   font-size: 62px;
   opacity: 1;
   text-align: left;
+  overflow: visible;
 }
 .v104_1129 {
   width: 475px;
