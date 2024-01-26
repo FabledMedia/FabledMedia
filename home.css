@@ -114,7 +114,7 @@ body {
 	background-position: center center;
 	background-size: cover;
 	opacity: 1;
-	position: absolute;
+	position: relative;
 	top: 268.7vh;
 	left: 74.07vw;
 	overflow: hidden;
@@ -128,7 +128,7 @@ body {
 	background-position: center center;
 	background-size: cover;
 	opacity: 1;
-	position: absolute;
+	position: relative;
 	top: 302.04vh;
 	left: 0;
 	overflow: hidden;
@@ -142,7 +142,7 @@ body {
 	background-position: center center;
 	background-size: cover;
 	opacity: 1;
-	position: absolute;
+	position: relative;
 	top: 302.04vh;
 	left: 37.04vw;
 	overflow: hidden;
@@ -153,7 +153,7 @@ body {
 	height: 33.33vh;
 	background: rgba(0,0,20,1);
 	opacity: 1;
-	position: absolute;
+	position: relative;
 	top: 302.04vh;
 	left: 74.07vw;
 	overflow: hidden;
