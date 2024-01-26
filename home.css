@@ -1,3 +1,5 @@
+html jan 26 
+
 @font-face {
     font-family: 'Glowist';
     src: url('Glowist.otf') format('opentype');
@@ -14,7 +16,7 @@
 }
 
 @font-face {
-    font-family: 'Benzin';
+    font-family: 'Supremat - Benzin Regular';
     src: url('Supremat - Benzin Regular.ttf') format('truetype');
 }
 
@@ -22,473 +24,56 @@
     font-family: 'Windsore-Script';
     src: url('Windsore-Script.otf') format('opentype');
 }
-* {
-  box-sizing: border-box;
+<link href="https://fonts.googleapis.com/css?family=Roboto&amp;display=swap" rel="stylesheet" /><link href="https://fonts.googleapis.com/css?family=Benzin&amp;display=swap" rel="stylesheet" /><<link rel="stylesheet" type="text/css" href="home.css"> /><title>Document</title>
+ <link href="NeutralFace=Bold.otf";display=swap" rel="stylesheet" /><link href="https://fonts.googleapis.com/css?family=Roboto&amp;display=swap" rel="stylesheet" /><link href="https://fonts.googleapis.com/css?family=Benzin&amp;display=swap" rel="stylesheet" /><link href="./css/main.css" rel="stylesheet" /><title>Document</title>
+<div class="v1_2" style="width: 100%;height: 509.26vh;position: absolute;top: 0px;left: 0px">
+  <div class="v1_22"></div>
+  <div class="v1_26" style="top: 144.07vh;left: 43.98vw"></div>
+  <div class="v1_28" style="top: 204.44vh;left: 86.57vw"><div class="v1_29"></div></div>
+  <div class="v1_30" style="top: 268.70vh"></div>
+  <div class="v1_33" style="top: 268.70vh;left: 37.04vw"></div>
+  <div class="v1_36" style="top: 268.70vh;left: 74.07vw"></div>
+  <div class="v1_39" style="top: 302.04vh"></div>
+  <div class="v1_42" style="top: 302.04vh;left: 37.04vw"></div>
+  <div class="v1_45" style="top: 302.04vh;left: 74.07vw"></div>
+  <div class="v1_48" style="top: 450.28vh;left: 6.85vw"></div>
+  <div class="v1_51" style="top: 412.31vh;left: 55.56vw"></div>
+  <div class="v1_52" style="top: 489.07vh;left: 6.48vw"></div>
+  <div class="v1_53" style="top: 489.07vh;left: 32.04vw"></div>
+  <span class="v1_177" style="top: 39.81vh;left: 4.17vw">Become Fabled</span>
+  <span class="v1_178" style="top: 71.20vh;left: 51.20vw"></span>
+  <span class="v1_179" style="top: 86.94vh;left: 5.56vw">Illuminating City Life</span>
+  <span class="v1_180" style="top: 97.96vh;left: 5.56vw">We're not just another DOOH operator; we're storytellers, and connection builders. Join us on our journey in shaping the future of brand engagement.</span>
+  <span class="v1_182" style="top: 161.57vh;left: 66.67vw">Fabled leverages state-of-the-art technology to craft compelling, immersive experiences. Our strategically placed screens transcend traditional displays, strategically capturing attention and driving engagement.</span>
+  <span class="v1_183" style="top: 189.54vh;left: 66.67vw">Our entirely digital screen fleet offers unmatched versatility. Campaigns can adapt, evolve, and leave a lasting impact. Fabled brings the future of Digital Out-of-Home (DOOH) advertising to your fingertips, empowering you with innovative marketing.</span>
+  <span class="v1_185" style="top: 231.67vh;left: 4.07vw">We understand the pulse of urban life, bridging the gap between brands and audiences, creating lasting connections.</span>
+  <span class="v1_186" style="top: 297.04vh;left: 2.22vw">Convenience Stores</span>
+  <span class="v1_187" style="top: 297.04vh;left: 39.26vw">Recreational Arenas</span>
+  <span class="v1_188" style="top: 297.04vh;left: 75.56vw">Urban Panels</span>
+  <span class="v1_189" style="top: 330.19vh;left: 2.22vw">Dispensaries</span>
+  <span class="v1_190" style="top: 330.19vh;left: 39.26vw">Postal offices</span>
+  <span class="v1_191" style="top: 326.02vh;left: 79.63vw">See our locations</span>
+  <span class="v1_192" style="top: 346.85vh;left: 4.81vw">Our screens redefine engagement. Integrated into novel environments, capturing attention. We don't just think outside the box; we redesign it.</span>
+  <span class="v1_193" style="top: 408.24vh;left: 6.85vw">2023 Q4 Marketing Landscape Report</span>
+  <span class="v86_2" style="top: 481.02vh;left: 39.44vw">Who we work with</span>
+  <span class="v1_194" style="top: 419.54vh;left: 6.85vw">In our third wave of this report, we explore how North American CMOs remain optimistic and continue to believe that marketing has grown in importance, despite being in an uncertain economic environment. The report also explores CMOs’ attitudes toward innovation, aiming to understand what actions they take, the investments they make, and the individuals and partners they turn to in order to further their organizations’ innovation muscle.</span>
+  <span class="v1_195" style="top: 459.81vh;left: 13.61vw"></span>
+  <span class="v74_43">Captivating Cities One Screen at a Time</span>
+  <div class="v1_25"></div>
+</div>
+<div class="row sectionBlockLayout text-left" style="display: flex;flex-wrap: wrap;margin: 0px;min-height: auto;padding: ">
+  <div class="container" style="padding: 0px;display: flex;flex-wrap: wrap"><div class="col-md-12 columnBlockLayout" style="flex-grow: 1;display: flex;flex-direction: column;min-width: "></div></div>
+</div>
 
-}
-
-body {
-	font-size: 1.3vh;
-
-}
-
-.v1_22 {
-	width: 100%;
-	height: 76.07vh;
-	background: rgba(0,0,20,1);
-	opacity: 1;
-	position: absolute;
-	top: 0;
-	left: 0;
-	overflow: auto;
-}
-
-.v1_26 {
-	width: 66.67vw;
-	height: 78.7vh;
-	background: rgba(0,0,20,1);
-	opacity: 1;
-	position: absolute;
-	top: 144.07vh;
-	left: 43.98vw;
-	overflow: hidden;
-}
-
-.v1_28 {
-	width: 1.76vw;
-	height: 1.48vh;
-	background: url('../images/v1_28.png');
-	background-repeat: no-repeat;
-	background-position: center center;
-	background-size: cover;
-	opacity: 1;
-	position: absolute;
-	top: 204.44vh;
-	left: 86.57vw;
-	overflow: hidden;
-}
-
-.v1_29 {
-	width: 1.76vw;
-	height: 1.48vh;
-	background: rgba(0,0,0,1);
-	opacity: 1;
-	position: absolute;
-	top: 0;
-	left: 0;
-}
-
-.v1_30 {
-	width: 37.04vw;
-	height: 33.33vh;
-	background: url('https://cdn.imgpaste.net/2023/12/09/KP90V8.png');
-	background-repeat: no-repeat;
-	background-position: center center;
-	background-size: cover;
-	opacity: 1;
-	position: absolute;
-	top: 268.7vh;
-	left: 0;
-	overflow: hidden;
-}
-
-.v1_33 {
-	width: 37.04vw;
-	height: 33.33vh;
-	background: url('https://cdn.imgpaste.net/2023/12/09/KP99Hs.jpg');
-	background-repeat: no-repeat;
-	background-position: center center;
-	background-size: cover;
-	opacity: 1;
-	position: absolute;
-	top: 268.7vh;
-	left: 37.04vw;
-	overflow: hidden;
-}
-
-.v1_36 {
-	width: 37.04vw;
-	height: 33.33vh;
-	background: url('https://cdn.imgpaste.net/2023/12/06/KPwPpm.jpg');
-	background-repeat: no-repeat;
-	background-position: center center;
-	background-size: cover;
-	opacity: 1;
-	position: relative;
-	top: 268.7vh;
-	left: 74.07vw;
-	overflow: hidden;
-}
-
-.v1_39 {
-	width: 37.04vw;
-	height: 33.33vh;
-	background: url('https://cdn.imgpaste.net/2023/12/09/KP9Uvm.jpg');
-	background-repeat: no-repeat;
-	background-position: center center;
-	background-size: cover;
-	opacity: 1;
-	position: relative;
-	top: 302.04vh;
-	left: 0;
-	overflow: hidden;
-}
-
-.v1_42 {
-	width: 37.04vw;
-	height: 33.33vh;
-	background: url('https://cdn.imgpaste.net/2023/12/09/KPIFPw.jpg');
-	background-repeat: no-repeat;
-	background-position: center center;
-	background-size: cover;
-	opacity: 1;
-	position: relative;
-	top: 302.04vh;
-	left: 37.04vw;
-	overflow: hidden;
-}
-
-.v1_45 {
-	width: 37.04vw;
-	height: 33.33vh;
-	background: rgba(0,0,20,1);
-	opacity: 1;
-	position: relative;
-	top: 302.04vh;
-	left: 74.07vw;
-	overflow: hidden;
-}
-
-.v1_48 {
-	width: 27.78vw;
-	height: 3.89vh;
-	background: rgba(0,0,20,1);
-	opacity: 1;
-	position: absolute;
-	top: 450.28vh;
-	left: 6.85vw;
-	overflow: hidden;
-}
-
-.v1_51 {
-	width: 55vw;
-	height: 32.69vh;
-	background: url('https://cdn.imgpaste.net/2023/12/09/KPIXXv.png');
-	background-repeat: no-repeat;
-	background-position: center center;
-	background-size: cover;
-	opacity: 1;
-	position: absolute;
-	top: 412.31vh;
-	left: 55.56vw;
-	overflow: hidden;
-}
-
-.v1_52 {
-	width: 21.2vw;
-	height: 11.3vh;
-	background: url('https://cdn.imgpaste.net/2023/12/09/KPIYLe.png');
-	background-repeat: no-repeat;
-	background-position: center center;
-	background-size: cover;
-	opacity: 1;
-	position: absolute;
-	top: 489.07vh;
-	left: 6.48vw;
-	overflow: hidden;
-}
-
-.v1_53 {
-	width: 37.22vw;
-	height: 11.3vh;
-	background: url('https://cdn.imgpaste.net/2023/12/09/KPIZzX.png');
-	background-repeat: no-repeat;
-	background-position: center center;
-	background-size: cover;
-	opacity: 1;
-	position: absolute;
-	top: 489.07vh;
-	left: 32.04vw;
-	overflow: hidden;
-}
-
-.v1_177 {
-	width: 48.06vw;
-	color: rgba(245,245,245,1);
-	position: absolute;
-	top: 39.81vh;
-	left: 4.17vw;
-	font-family:'NeutralFace-Bold';
-	font-weight: Bold;
-	font-size: 8.89vh;
-	opacity: 1;
-	text-align: left;
-}
-
-.v1_178 {
-	width: 12.59vw;
-	color: rgba(38,38,38,1);
-	position: absolute;
-	top: 71.2vh;
-	left: 51.2vw;
-	font-family: Roboto;
-	font-weight: Regular;
-	font-size: 1.48vh;
-	opacity: 1;
-	text-align: center;
-}
-
-.v1_179 {
-	width: 41.94vw;
-	color: rgba(0,0,0,1);
-	position: absolute;
-	top: 86.94vh;
-	left: 5.56vw;
-	font-family: NeutralFace-Bold;
-	font-weight: Bold;
-	font-size: 3.33vh;
-	opacity: 1;
-	text-align: left;
-}
-
-.v1_180 {
-	width: 68.98vw;
-	color: rgba(38,38,38,1);
-	position: absolute;
-	top: 97.96vh;
-	left: 5.56vw;
-	font-family: Benzin;
-	font-weight: Regular;
-	font-size: 3.33vh;
-	opacity: 1;
-	text-align: left;
-}
-
-.v1_182 {
-	width: 32.04vw;
-	color: rgba(255,255,255,1);
-	position: absolute;
-	top: 161.57vh;
-	left: 66.67vw;
-	font-family: Benzin;
-	font-weight: Regular;
-	font-size: 1.85vh;
-	opacity: 1;
-	text-align: left;
-}
-
-.v1_183 {
-	width: 34.72vw;
-	color: rgba(255,255,255,1);
-	position: absolute;
-	top: 189.54vh;
-	left: 66.67vw;
-	font-family: Benzin;
-	font-weight: Regular;
-	font-size: 1.85vh;
-	opacity: 1;
-	text-align: left;
-}
-
-.v1_185 {
-	width: 100%;
-	color: rgba(0,0,20,1);
-	position: absolute;
-	top: 231.67vh;
-	left: 4.07vw;
-	font-family: NeutralFace-Bold;
-	font-weight: Bold;
-	font-size: 5.93vh;
-	opacity: 1;
-	text-align: left;
-}
-
-.v1_186 {
-	width: 30.93vw;
-	color: rgba(245,245,245,1);
-	position: absolute;
-	top: 297.04vh;
-	left: 2.22vw;
-	font-family: Benzin;
-	font-weight: Regular; 
-	transform: translate(-50%, -50%)
-	font-size: 2.22vh;
-	opacity: 1;
-	text-align: left;
-}
-
-.v1_187 {
-	width: 29.07vw;
-	color: rgba(245,245,245,1);
-	position: absolute;
-	top: 297.04vh;
-	left: 39.26vw;
-	transform: translate(-50%, -50%);
-	font-family: Benzin;
-	font-weight: Regular;
-	font-size: 2.22vh;
-	opacity: 1;
-	text-align: left;
-}
-
-.v1_188 {
-	width: 18.61vw;
-	color: rgba(245,245,245,1);
-	position: absolute;
-	top: 297.04vh;
-	left: 75.56vw;
-	transform: translate(-50%, -50%);
-	font-family: Benzin;
-	font-weight: Regular;
-	font-size: 2.22vh;
-	opacity: 1;
-	text-align: left;
-}
-
-.v1_189 {
-	width: 18.15vw;
-	color: rgba(0,0,20,1);
-	position: absolute;
-	top: 330.19vh;
-	left: 2.22vw;
-	transform: translate(-50%, -50%);
-	font-family: Benzin;
-	font-weight: Regular;
-	font-size: 2.22vh;
-	opacity: 1;
-	text-align: left;
-}
-
-.v1_190 {
-	width: 14.63vw;
-	color: rgba(245,245,245,1);
-	position: absolute;
-	top: 330.19vh;
-	left: 39.26vw;
-	font-family: Benzin;
-	font-weight: Regular;
-	font-size: 2.22vh;
-	transform: translate(-50%, -50%);
-	opacity: 1;
-	text-align: left;
-}
-
-.v1_191 {
-	width: 19.17vw;
-	color: rgba(245,245,245,1);
-	position: absolute;
-	top: 326.02vh;
-	left: 79.63vw;
-	transform: translate(-50%, -50%);
-	font-family: Benzin;
-	font-weight: Regular;
-	font-size: 3.33vh;
-	opacity: 1;
-	text-align: left;
-}
-
-.v1_192 {
-	width: 100%;
-	color: url("../images/v1_192.png");
-	position: absolute;
-	top: 346.85vh;
-	left: 4.81vw;
-	font-family: NeutralFace-Bold;
-	font-weight: Bold;
-	font-size: 5.93vh;
-	opacity: 1;
-	text-align: left;
-}
-
-.v1_193 {
-	width: 40.74vw;
-	color: rgba(0,0,20,1);
-	position: absolute;
-	top: 408.24vh;
-	left: 6.85vw;
-	font-family: NeutralFace;
-	font-weight: Regular;
-	font-size: 3.33vh;
-	opacity: 1;
-	text-align: left;
-}
-
-.v86_2 {
-	width: 40.74vw;
-	color: rgba(0,0,20,1);
-	position: absolute;
-	top: 481.02vh;
-	left: 39.44vw;
-	font-family: NeutralFace;
-	font-weight: Regular;
-	font-size: 3.33vh;
-	opacity: 1;
-	text-align: left;
-}
-
-.v1_194 {
-	width: 34.35vw;
-	color: rgba(38,38,38,1);
-	position: absolute;
-	top: 419.54vh;
-	left: 6.85vw;
-	font-family: Benzin;
-	font-weight: Regular;
-	font-size: 1.48vh;
-	opacity: 1;
-	text-align: left;
-}
-
-.v1_195 {
-	width: 7.87vw;
-	color: rgba(255,255,255,1);
-	position: absolute;
-	top: 459.81vh;
-	left: 13.61vw;
-	font-family: Roboto;
-	font-weight: Regular;
-	font-size: 1.48vh;
-	opacity: 1;
-	text-align: left;
-}
-
-.v74_43 {
-	width: 33vw;
-	color: rgba(245, 245, 245, 1);
-	position: absolute;
-	top: 147.5vh;
-	left: 66.67vw;
-	font-family: NeutralFace-Bold;
-	font-weight: Bold;
-	font-size: 3.3vh;
-	opacity: 1;
-	text-align: center;
-}
-
-.v1_25 {
-	width: 61.11vw;
-	height: 40.74vh;
-	background: url('https://cdn.imgpaste.net/2023/12/09/KP9r0Y.jpg');
-	background-repeat: no-repeat;
-	background-position: center center;
-	background-size: cover;
-	opacity: 1;
-	position: absolute;
-	top: 148.8vh;
-	left: 0w;
-	overflow: hidden;
-}
-
-.v1_22 {
-	width: 100%;
-    height: calc(800 / 1080 * 100vh);
-	background: url('https://cdn.imgpaste.net/2023/12/07/KPrCLs.jpg');
-	background-repeat: no-repeat;
-	background-position: center center;
-	background-size: 100% 100%;
-	opacity: 1;
-	position: absolute;
-	top: 0;
-	left: 0;
-	overflow: auto;
-}
+<a href= "locations.html">
+    <div class="v1_45"></div>
+</a>
+<a href= "urbanpanel.html"> 
+  <div class= "v1_39"></div>
+</a>
+<a href= "about.html"> 
+  <div class= "v1_42"></div>
+</a>
+<a href= "convivence.html"> 
+  <div class= "v1_36"></div>
+</a>
