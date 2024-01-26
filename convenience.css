@@ -201,7 +201,7 @@ body {
   position: absolute;
   top: 2.1296296296296298vh; /* 23px */
   left: 0vw; /* 0px */
-  font-family: Neutral Face;
+  font-family: NeutralFace-Bold ;
   font-weight: Bold;
   font-size: 3.3333333333333335vh; /* 36px */
   opacity: 1;
@@ -417,7 +417,7 @@ body {
   position: absolute;
   top: 5.092592592592593vh; /* 55px */
   left: 9.84375vw; /* 189px */
-  font-family: Neutral Face;
+  font-family: NeutralFace-Bold;
   font-weight: Bold;
   font-size: 3.3333333333333335vh; /* 36px */
   opacity: 1;
