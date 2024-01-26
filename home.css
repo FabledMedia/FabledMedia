@@ -310,7 +310,8 @@ body {
 	top: 297.04vh;
 	left: 2.22vw;
 	font-family: Benzin;
-	font-weight: Regular;
+	font-weight: Regular; 
+	transform: translate(-50%, -50%)
 	font-size: 2.22vh;
 	opacity: 1;
 	text-align: left;
@@ -322,6 +323,7 @@ body {
 	position: absolute;
 	top: 297.04vh;
 	left: 39.26vw;
+	transform: translate(-50%, -50%);
 	font-family: Benzin;
 	font-weight: Regular;
 	font-size: 2.22vh;
@@ -335,6 +337,7 @@ body {
 	position: absolute;
 	top: 297.04vh;
 	left: 75.56vw;
+	transform: translate(-50%, -50%);
 	font-family: Benzin;
 	font-weight: Regular;
 	font-size: 2.22vh;
@@ -348,6 +351,7 @@ body {
 	position: absolute;
 	top: 330.19vh;
 	left: 2.22vw;
+	transform: translate(-50%, -50%);
 	font-family: Benzin;
 	font-weight: Regular;
 	font-size: 2.22vh;
@@ -364,6 +368,7 @@ body {
 	font-family: Benzin;
 	font-weight: Regular;
 	font-size: 2.22vh;
+	transform: translate(-50%, -50%);
 	opacity: 1;
 	text-align: left;
 }
@@ -374,6 +379,7 @@ body {
 	position: absolute;
 	top: 326.02vh;
 	left: 79.63vw;
+	transform: translate(-50%, -50%);
 	font-family: Benzin;
 	font-weight: Regular;
 	font-size: 3.33vh;
